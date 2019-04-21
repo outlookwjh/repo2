@@ -94,6 +94,8 @@ public class LogAop {
 
 					//第一次修改
 					system.out.println("第一次修改")
+					//第二次修改
+					system.out.println("第二次修改")
                 }
             }
         }
